@@ -1,0 +1,3 @@
+odm/etc/firmware/ts/P086781300_AFT_param.csv
+odm/etc/firmware/ts/P086781310_AFT_param.csv
+odm/etc/firmware/ts/P086811000_AFT_param.csv
