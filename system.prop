@@ -1,0 +1,34 @@
+
+#
+# from device/emui/generic_a15/system.prop
+#
+persist.sys.cpuset.enable=1
+persist.sys.cpuset.subswitch=16
+persist.sys.iaware.cpuenable=true
+persist.sys.fast_h_duration=2000
+persist.sys.fast_h_max=50
+persist.sys.max_rdh_delay=0
+ro.config.enable_rcc=true
+ro.config.hw_sensorhub=true
+system_init.hwextdeviceservice=1
+bastet.service.enable=true
+dalvik.vm.boot-dex2oat-threads=4
+ro.apex.updatable=true
+dalvik.vm.dex2oat-max-image-block-size=1048576
+# end of device/emui/generic_a15/system.prop
+
+#
+# from device/hisi/kirin/system.prop
+#
+dalvik.vm.checkjni=false
+persist.sys.jankenable=true
+odm.bastet.service.enable=true
+config.disable_consumerir=true
+ro.audio.offload_wakelock = false
+ro.kirin.config.callinwifi=200,6
+persist.sys.adoptable=force_on
+ro.config.vendor.isDmProduct=true
+ro.vendor.camera.video_fps_default = 30
+# end of device/hisi/kirin/system.prop
+
+#

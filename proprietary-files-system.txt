@@ -1,0 +1,7 @@
+odm/etc/firmware/ts/MARI690000_AFT_param.csv
+odm/etc/firmware/ts/MARI691100_AFT_param.csv
+odm/etc/firmware/ts/MARI691300_AFT_param.csv
+odm/etc/firmware/ts/MARI711200_AFT_param.csv
+odm/etc/firmware/ts/MARI711300_AFT_param.csv
+odm/etc/firmware/ts/MARI771100_AFT_param.csv
+odm/etc/firmware/ts/MARI861100_AFT_param.csv
