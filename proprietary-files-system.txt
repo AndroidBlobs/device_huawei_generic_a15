@@ -1,0 +1,4 @@
+odm/etc/firmware/ts/HIMA620800_AFT_param.csv
+odm/etc/firmware/ts/HIMA621600_AFT_param.csv
+odm/etc/firmware/ts/HIMA651000_AFT_param.csv
+odm/etc/firmware/ts/HIMA661300_AFT_param.csv
